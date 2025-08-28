@@ -48,11 +48,5 @@ It applies **data augmentation, fine-tuning, evaluation metrics, and visualizati
 3. Open the notebook in **Google Colab** (recommended) or Jupyter.
 4. Run cells step by step to train & evaluate the model.
 
-
-
 ```
 
----
-
-Do you want me to also **add a Colab badge** at the top (like your previous tasks) so it’s one-click runnable for your internship submissions?
-```
